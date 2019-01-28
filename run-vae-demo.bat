@@ -1,7 +1,7 @@
 set vcsdebug=1
 SET vcsuserid=vtsroot
 echo %vcsuserid%
-set vcspassword=Vormetric123!
+set vcspassword=yourpwd
 echo %vcspassword%
 set vcstokenserver=192.168.159.141
 set vcsalg=A128CTR
